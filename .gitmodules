@@ -1,6 +1,3 @@
-[submodule "htl-java"]
-	path = htl-java
-	url = https://github.com/itmam07/htl-java.git
-[submodule "htl-cpp"]
-	path = htl-cpp
-	url = https://github.com/itmam07/htl-cpp.git
+[submodule "DrawLab"]
+	path = DrawLab
+	url = https://github.com/UrsusTheMinor/DrawLab
